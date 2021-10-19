@@ -1,0 +1,30 @@
+[
+    {
+      "name": "To do",
+      "user": 0,
+      "id": 31230963389,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "In Progress",
+      "user": 0,
+      "id": 79049596253,
+      "starred": true,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "In QA",
+      "user": 0,
+      "id": 57082118899,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "Done",
+      "user": 0,
+      "id": 46192915220,
+      "starred": false,
+      "created": "2021-10-16"
+    }
+  ]

@@ -1,0 +1,8 @@
+{
+    "emailInput" : "input#signupEmail",
+    "passwordInput" : "input#signupPassword",
+    "signUpButton" : "[data-cy='signUpButton']",
+    "loginHere" : "[data-cy='goToLogin']",
+    "checkboxEmail" : "input[type='checkbox']",
+    "cancel" : ".Overlay .Cancel"
+}

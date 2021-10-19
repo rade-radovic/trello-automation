@@ -1,0 +1,22 @@
+{
+  "name": "trello-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rade-radovic/trello-automation.git"
+  },
+  "author": "rade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rade-radovic/trello-automation/issues"
+  },
+  "homepage": "https://github.com/rade-radovic/trello-automation#readme",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
