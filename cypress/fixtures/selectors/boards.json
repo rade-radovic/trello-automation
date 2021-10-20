@@ -1,0 +1,7 @@
+{
+    "createBoard..." : "div#new-board",
+    "createBoardInput" : "[data-cy='newBoardInput']",
+    "saveButton" : "div[class='board_options'] > button",
+    "cancel" : "div#new-board  svg > line:nth-of-type(2)",
+    "boardTitle" : "h1[class='board_title']"
+}

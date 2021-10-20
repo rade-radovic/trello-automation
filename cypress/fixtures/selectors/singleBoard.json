@@ -1,0 +1,4 @@
+{
+    "boardOptions" : ".boardDetail_info > .invisible-overlay",
+    "listName" : "[data-cy='list-name']"
+}
