@@ -1,7 +1,8 @@
 {
     "emailInput" : "input#loginEmail",
     "passwordInput" : "input#loginPassword",
-    "loginButton" : "[data-cy='login-button']",
+    "loginButton" : "[data-cy='login']",
     "signUpHere" : "[data-cy='signUpHere']",
     "cancel" : ".Overlay svg > line:nth-of-type(2)"
-} 
+    
+}  

@@ -1,7 +1,15 @@
 {
     "createBoard..." : "div#new-board",
-    "createBoardInput" : "[data-cy='newBoardInput']",
+    "createBoardInput" : "[data-cy=new-board-input]",
     "saveButton" : "div[class='board_options'] > button",
     "cancel" : "div#new-board  svg > line:nth-of-type(2)",
-    "boardTitle" : "h1[class='board_title']"
-}
+    "boardTitle" : "h1[class='board_title']",
+    "boardItem" : "[data-cy='board-item']",
+    "boardStar" : "[data-cy='star']",
+    "favoriteBoards" : "[data-cy=favorite-boards]",
+    "addList" : "[data-cy=add-list]",
+    "saveListButton" : "[data-cy='save']",
+    "addItem" : "[data-cy='new-task']",
+    "taskInput" : "[data-cy='task-input']", 
+    "tasksList" : "[data-cy='tasks-list']"
+}   

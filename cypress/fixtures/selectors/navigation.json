@@ -1,3 +1,6 @@
 {
-    "loginButton" : "svg[data-name='Layer 1']"
+    "loginButton" : "svg[data-name='Layer 1']",
+    "loggedUser" : "[data-cy='logged-user']",
+    "logout" : "[data-cy=logged-user] > #myDropdown > span",
+    "myBoards" : "div[class='Nav_boards Nav_button router-link-active']"
 }
